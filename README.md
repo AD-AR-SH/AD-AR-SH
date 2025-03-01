@@ -2,8 +2,7 @@
 
 I'm **[`Adarsh`]()**, A Web Developer, Cybercrime Researcher, Bug Bounty Hunter, Technology Researcher, and Prompt Engineer. With expertise in cybersecurity, ethical hacking, and emerging technologies, I research cyber threats, bug bounties, and AI advancements. My goal is to innovate, educate, and contribute to a more secure digital world.
 
-<a href="www.linkedin.com/in/
-adarsh-s-418638341
+<a href="https://www.linkedin.com/in/adarsh-s-418638341/
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
